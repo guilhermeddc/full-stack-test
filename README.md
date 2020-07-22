@@ -77,6 +77,16 @@ npm run db:migrate or yarn db:migrate
 npm run dev or yarn dev
 ```
 
+Build run:
+
+```
+npm run db:migrate or yarn db:migrate
+
+npm run build or yarn build
+
+npm run start or yarn start
+```
+
 ### Endpoints <a name = "endpoints"></a>
 
 ```
@@ -115,6 +125,12 @@ after cloned the repository enters the frontend folder and runs:
 npm install or yarn
 
 npm run start or yarn start
+```
+
+Build run:
+
+```
+npm run build or yarn build
 ```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
